@@ -1,10 +1,4 @@
+import { Hero } from "./classes/Hero";
 
-
-console.log('Hola Mundo!!');
-
-
-
-
-
-
-
+const hero = new Hero('Goku', 180000, 35);
+console.log( hero );
