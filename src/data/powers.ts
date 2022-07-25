@@ -7,11 +7,11 @@ interface Power {
 const powers: Power[] = [
     {
         id: 1, 
-        desc: 'Money'
+        desc: 'Kayoiken'
     },
     {
         id: 2,
-        desc: 'Drugs'
+        desc: 'Makankosapo'
     }
 ];
 
